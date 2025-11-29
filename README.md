@@ -7,7 +7,6 @@ The project integrates multiple operational datasets into a unified analytical e
 
 ---
 
-# **📊 Dashboard Preview**
 
 <p align="center">
   <img src="./report/dashboard_preview.png" alt="Muamalat Sales Dashboard" width="70%">
