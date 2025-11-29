@@ -8,7 +8,7 @@ The project integrates multiple operational datasets into a unified analytical e
 ---
 
 
-![Muamalat Sales Dashboard](report/BI_muamalat.jpg)
+<img src="Report/BI_muamalat.jpg" width="70%">
 
 ---
 
