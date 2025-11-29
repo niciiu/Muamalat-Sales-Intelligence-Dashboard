@@ -8,7 +8,10 @@ The project integrates multiple operational datasets into a unified analytical e
 ---
 
 
-<img src="Report/BI_muamalat.jpg" width="70%">
+<p align="center">
+  <img src="Report/BI_muamalat.jpg" width="50%">
+</p>
+
 
 ---
 
