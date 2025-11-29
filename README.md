@@ -14,7 +14,7 @@ The project integrates multiple operational datasets into a unified analytical e
 
 ---
 
-#Summary**
+# **1.Summary**
 
 This project consolidates sales, customer, product, and category data to produce a **single source of truth** for commercial reporting.
 The resulting dashboard provides:
