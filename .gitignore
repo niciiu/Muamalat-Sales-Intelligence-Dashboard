@@ -1,6 +1,8 @@
 # macOS system files
 .DS_Store
 **/.DS_Store
-
 .AppleDouble
 .LSOverride
+
+# Dataset folder (for privacy)
+Dataset/
